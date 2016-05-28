@@ -10,8 +10,13 @@ Some rules have to be considered to avoid desesparation while trying to get expe
 ## Glossary
 
 *Basic machine*:
+
 *Machine*:
+
 *Refinement*:
+
 *Implementation*:
+
 *B0*:				subset of the B language that is directly implementable.This subset depends on the code generator
+
 *B0 checker*:		tool to verify that an implementation complies with B0 constraints
